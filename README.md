@@ -1,3 +1,3 @@
-# Week 07
+# Week 07 - Complete
 
 Supervised Learning: Classification
